@@ -8,4 +8,4 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="images/Screenshots/Homepage - Desktop.PNG" alt="project-screenshot" width="500" height="400/">
+<img src="images/Screenshots/Homepage - Desktop.PNG" alt="project-screenshot" width="800" height="400/">
