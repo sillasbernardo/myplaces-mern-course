@@ -14,8 +14,6 @@
 
 <img src="images/Screenshots/My places page - Desktop.PNG" alt="project-screenshot" width="800" height="400/">
 
-<img src="images/Screenshots/Register page.PNG" alt="project-screenshot" width="800" height="400/">
-
 <img src="images/Screenshots/View on map page - desktop.PNG" alt="project-screenshot" width="800" height="400/">
 
 <img src="images/Screenshots/check other people's place page.PNG" alt="project-screenshot" width="800" height="400/">
