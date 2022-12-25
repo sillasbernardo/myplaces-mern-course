@@ -1,0 +1,9 @@
+{
+	"env": {
+		"DB_USER": "sillas-mern-course",
+		"DB_PASSWORD": "academind123",
+		"DB_NAME": "myplaces",
+		"GOOGLE_API_KEY": "AIzaSyAWjbD8WnMoOXbwpbgkGOlv6bWJpyWK9LQ",
+		"JWT_KEY": "supersecret_dont_share"
+	}
+}
